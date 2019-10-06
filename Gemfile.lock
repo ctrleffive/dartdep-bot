@@ -27,6 +27,7 @@ GEM
 
 PLATFORMS
   ruby
+  x64-mingw32
 
 DEPENDENCIES
   dotenv
@@ -35,4 +36,4 @@ DEPENDENCIES
   sinatra (~> 2.0)
 
 BUNDLED WITH
-   1.17.1
+   1.17.2
